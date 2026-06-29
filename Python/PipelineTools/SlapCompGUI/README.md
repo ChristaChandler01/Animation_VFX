@@ -38,6 +38,5 @@ background plate.
 ## Launching in Maya
 
 Create a shelf button with the following Python code:
-```python
 import SlapComp_Launcher as sl
 sl.launch()
